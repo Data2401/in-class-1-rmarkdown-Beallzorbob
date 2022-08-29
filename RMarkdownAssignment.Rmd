@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "John Beall"
 date: "Data 2401"
 output: html_document
 ---
@@ -12,23 +12,47 @@ knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show!
 ```
 
 
-Reminder: There is a "Markdown Help" page available in RStudio. 
 
 
-## In-class Activity, Markdown
+# Your Work Here
 
-Below the "Your work here" section header, do the following 3 things. To turn this in, knit the RMarkdown file, and zip and submit the html.  
+## Wise Words
 
-1. Make a subsection called "Wise words". Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
-
-2. Make a subsection called "My semester". Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
-
-3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
-
-+ A _subsubheading_ with the name of the artist or author;    
-+ An example of their writing or lyrics (formatted in a *plain code block*);   
-+ A _list_ of things they have written or performed (remember to use the formatting markup for a list!).     
+> [Success is sometimes the outcome of a whole string of failures - Van Gogh][id].
 
 
-Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
+[id]: https://www.msblackink.co.uk/post/success-is-sometimes-the-outcome-of-a-whole-string-of-failures#:~:text=string%20of%20failures.%22-,%22Success%20is%20sometimes%20the%20outcome%20of%20a%20whole%20string%20of,the%20day%20is%20a%20Success/ "Van Gogh"
+
+## My Semester
+
+Course Number | Course Title    | Instructor   |
+------------- | -------------   | -------------|
+**Data 2401** | *Data Science I*| Shoemaker    |
+**SUST 3302** | *Fundamentals of Sustainability* | Moreno |
+
+## I recommend
+
+### Mastodon
+
+```
+All that I have seen
+Standing on the edge
+The foot of precipice
+Floating in the sea
+Past the king of swords
+Quickly to the shore
+The last baron
+The last baron
+```
+
+1. Remission
+2. Leviathan
+3. Blood Mountain
+4. Crack the Skye
+5. The Hunter
+6. Once More 'Round The Sun
+7. Emperor of Sand
+8. Hushed and Grim
+
+
  
